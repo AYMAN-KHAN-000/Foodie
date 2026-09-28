@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/foodie)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/foodie?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/foodie?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+
  
 
   <br />
@@ -13,7 +13,7 @@
 
   Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ayman-khan-000.github.io/Foodie/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
